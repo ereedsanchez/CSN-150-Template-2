@@ -12,4 +12,7 @@ This is a test of github
 - list 2
 
 
-link[link.com]
+[link](http://link.com)
+
+- [ ] Reliable Storage // This is pending
+- [x] Authentication // This is done
