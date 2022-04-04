@@ -10,9 +10,15 @@ This is a test of github
 
 - list 1
 - list 2
+- list3
+- list4
 
+## Do this in terminal
 
-[link](http://link.com)
+`apt update`
+`apt upgrade`
+
+[Press this link](http://link.com)
 
 - [ ] Reliable Storage // This is pending
 - [x] Authentication // This is done
@@ -31,9 +37,9 @@ This is a test of github
 
 - [API](<API Link> "API")
 
-## Screenshots
+## Happy Picture
 
-![Home Page](/screenshots/1.png "Home Page")
+![Happy Steg](/pics/happy.jpg)
 
 ![](/screenshots/2.png)
 
