@@ -15,8 +15,8 @@ This is a test of github
 
 ## Do this in terminal
 
-'apt update'
-'apt upgrade'
+`apt update`
+`apt upgrade`
 
 [Press this link](http://link.com)
 
