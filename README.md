@@ -13,6 +13,10 @@ This is a test of github
 - list3
 - list4
 
+## Do this in terminal
+
+'apt update'
+'apt upgrade'
 
 [Press this link](http://link.com)
 
