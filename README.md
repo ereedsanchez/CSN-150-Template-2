@@ -39,7 +39,7 @@ This is a test of github
 
 ## Happy Picture
 
-![Home Page](/happy.jpg)
+![Happy Steg](/pics/happy.jpg)
 
 ![](/screenshots/2.png)
 
