@@ -37,9 +37,9 @@ This is a test of github
 
 - [API](<API Link> "API")
 
-## Screenshots
+## Happy Picture
 
-![Home Page](/screenshots/1.png "Home Page")
+![Home Page](/happy.jpg)
 
 ![](/screenshots/2.png)
 
